@@ -1,11 +1,6 @@
 # PiOneCoreProgressive
 Arduino sketch to approximate Pi using the Leibniz series. Configurable for up to 100M iterations, printing progress every 100k steps. Outputs the current Pi value, elapsed time, and relative error. Ideal for performance benchmarking and educational purposes. Compatible with various microcontrollers.
 
-# Continuous Pi Calculation on Arduino
-
-## Description
-This Arduino sketch approximates Pi using the Leibniz series formula. It performs calculations up to a specified maximum number of iterations and prints the current approximation of Pi, elapsed time, and relative error at regular intervals. This project is suitable for benchmarking different microcontrollers' performance or for educational purposes to demonstrate iterative algorithms and their convergence properties.
-
 ## Features
 
 - **Leibniz Series Calculation**: Approximates Pi using the simple alternating series formula.
