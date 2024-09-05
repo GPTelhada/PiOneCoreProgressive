@@ -31,4 +31,18 @@ Arduino sketch to approximate Pi using the Leibniz series. Configurable for up t
 
 ## Example Output
 
+Iterations: 1200000 - Time taken: 11802 ms
+Approximated Pi value: 3.141591820256
+The real value of pi:  3.1415926535
+Relative Error: 0.00002652 %
 
+Iterations: 1300000 - Time taken: 12186 ms
+Approximated Pi value: 3.141591884359
+The real value of pi:  3.1415926535
+Relative Error: 0.00002448 %
+
+## Customization
+
+You can easily modify the following constants to suit your needs:
+- `maxIterations`: Increase or decrease the total number of iterations.
+- `printInterval`: Adjust the frequency of outputs to the serial monitor.
